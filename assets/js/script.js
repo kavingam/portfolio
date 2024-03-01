@@ -1,4 +1,3 @@
-
 $(function () {    
 // Navigation 
     $('.site-navigation').affix({
