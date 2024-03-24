@@ -44,7 +44,7 @@ Soft Skills: problem-solving, critical thinking, communication, teamwork, and ad
 Experience: e-commerce platforms, single-page applications).
 
 
-## :github: Github repository
+## Github repository
 - [Event management website ](#)
 - [Colour pridiction website ](#)
 - [Personal ai assistant ](#)
