@@ -44,12 +44,11 @@ Soft Skills: problem-solving, critical thinking, communication, teamwork, and ad
 Experience: e-commerce platforms, single-page applications).
 
 
-
-## :man_astronaut: Show your support
-## Github repository
+## :github: Github repository
 - [Event management website ](#)
 - [Colour pridiction website ](#)
 - [Personal ai assistant ](#)
 - [Portfolio Template ](#)
+
 
 All project is licensed under [Apache License 2.0](#) license.
