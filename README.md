@@ -27,7 +27,18 @@ Full-stack developer with X years of experience building and maintaining web app
 
 Contributions are always welcome! Please create a PR to add Github Profile.
 
-## :pencil: License
+## :pencil: Qualifications:
+
+Education: Undergraduate degree in Computer Science (B.voc-IT) from [Dibrugarh University](#).
+Certifications: full-stack development (full-stack development bootcamp certificate),.
+
+Skills and Experience:
+This approach is more common for full-stack developers and emphasizes your practical abilities over formal qualifications. Here's what to include:
+
+Technical Skills: front-end HTML, CSS, JavaScript, specific frameworks (React, Django, etc.), Back-end databases (MySQL, MongoDB), and version control systems (Git).
+Programming Languages: PHP,Javascript,Java,Python,C++,C.
+Soft Skills: problem-solving, critical thinking, communication, teamwork, and adaptability.
+Experience: e-commerce platforms, single-page applications).
 
 This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
 
