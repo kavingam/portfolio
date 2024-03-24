@@ -24,4 +24,4 @@ This project is licensed under [MIT](https://opensource.org/licenses/MIT) licens
 - [Event management website ](#)
 - [Colour pridiction website ](#)
 - [Personal ai assistant ](#)
-- [Portpolio Template ](#)
+- [Portfolio Template ](#)
