@@ -36,11 +36,14 @@ Skills and Experience:
 This approach is more common for full-stack developers and emphasizes your practical abilities over formal qualifications. Here's what to include:
 
 Technical Skills: front-end HTML, CSS, JavaScript, specific frameworks (React, Django, etc.), Back-end databases (MySQL, MongoDB), and version control systems (Git).
+
 Programming Languages: PHP,Javascript,Java,Python,C++,C.
+
 Soft Skills: problem-solving, critical thinking, communication, teamwork, and adaptability.
+
 Experience: e-commerce platforms, single-page applications).
 
-This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
+
 
 ## :man_astronaut: Show your support
 ## Github repository
@@ -48,3 +51,5 @@ This project is licensed under [MIT](https://opensource.org/licenses/MIT) licens
 - [Colour pridiction website ](#)
 - [Personal ai assistant ](#)
 - [Portfolio Template ](#)
+
+All project is licensed under [Apache License 2.0](#) license.
