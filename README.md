@@ -8,7 +8,7 @@
   - [Services](#)
 ## Website
 
-Link : https://bhaitigam71.github.io/Portfolio/
+Link : 
 ![GitHubBanner](https://github.com/bhaitigam71/bhaitigam71/blob/main/assets/img/portfolio%20sreenshort.png)
 
 # Introduction
