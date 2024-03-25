@@ -8,7 +8,7 @@
   - [Services](#)
 ## Website
 
-![](https://img.shields.io/badge/kavin_gam-portfolio-white?style=flat-square&logoColor=red&link=https%3A%2F%2Fgithub.com%2Fkavingam%2FPortfolio
+![](https://img.shields.io/badge/kavin_gam-portfolio-white?style=flat-square&logo=K&labelColor=black&color=red
 )
 ![](https://img.shields.io/badge/fullstack-developer-white?style=flat-square&logo=android&logoColor=green&color=black&link=https%3A%2F%2Fgithub.com%2Fkavingam%2FPortfolio
 )
