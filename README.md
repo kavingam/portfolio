@@ -8,13 +8,7 @@
   - [Services](#)
 ## Website
 
-![](https://img.shields.io/badge/kavin_gam-portfolio-white?style=flat-square&logo=K&labelColor=black&color=red
-)
-![](https://img.shields.io/badge/fullstack-developer-white?style=flat-square&logo=android&logoColor=green&color=black&link=https%3A%2F%2Fgithub.com%2Fkavingam%2FPortfolio
-)
-![](https://img.shields.io/badge/android-app-white?style=flat-square&logo=android&labelColor=black&color=red
-)
-![](https://img.shields.io/badge/web-app-white?style=flat-square&logo=windows&labelColor=black&color=red
+- [](https://img.shields.io/badge/web-app-white?style=flat-square&logo=windows&color=red
 )
 # Introduction
 I'm a passionate <b>full-stack developer</b> with a knack for building beautiful and functional web applications. I thrive on challenges and love learning new technologies to bring ideas to life.
