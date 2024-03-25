@@ -14,9 +14,9 @@ Link : https://bhaitigam71.github.io/Portfolio/
 # Introduction
 I'm a passionate <b>full-stack developer</b> with a knack for building beautiful and functional web applications. I thrive on challenges and love learning new technologies to bring ideas to life.
 # About
-I'm a full-stack developer with a passion for crafting user-friendly interfaces.  Recently, I spearheaded the development of a new e-commerce platform that resulted in a 20% increase in conversions. I'm a strong believer in Agile development and love collaborating with cross-functional teams.
+I'm a <b>full-stack developer</b> with a passion for crafting user-friendly interfaces.  Recently, I spearheaded the development of a new e-commerce platform that resulted in a 20% increase in conversions. I'm a strong believer in Agile development and love collaborating with cross-functional teams.
 
-A highly motivated <b>full-stack developer</b> with <mark>5+</mark> years of experience.  I have a deep understanding of both front-end frameworks like React and back-end languages like <b>Python<p>.  In my free time, I enjoy building open-source projects and contributing to the developer community.
+A highly motivated <b>full-stack developer</b> with <b>5+</b> years of experience.  I have a deep understanding of both front-end frameworks like React and back-end languages like <b>Python</b>.  In my free time, I enjoy building open-source projects and contributing to the developer community.
 # Services
 <b>Full-stack developer</b> with X years of experience building and maintaining web applications. I specialize in front-end development using <b>React.js</b> and back-end development with <b>Node.js</b>  I offer services including:
 * Custom web application development
