@@ -8,7 +8,7 @@
   - [Services](#)
 ## Website
 
-Link : [Kavin](https://kavingam.github.io/Portfolio/)
+Link : https://img.shields.io/badge/kavin_gam-portfolio-white?style=flat-square&logoColor=red&link=https%3A%2F%2Fgithub.com%2Fkavingam%2FPortfolio
 ![GitHubBanner](https://github.com/bhaitigam71/bhaitigam71/blob/main/assets/img/portfolio%20sreenshort.png)
 
 # Introduction
