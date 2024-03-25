@@ -14,7 +14,7 @@
 )
 ![](https://img.shields.io/badge/android-app-white?style=flat-square&logo=android&color=red
 )
-![](https://img.shields.io/badge/linux-tools-white?style=flat-square&logo=linux&color=green
+![](https://img.shields.io/badge/linux-tools-white?style=flat-square&logo=linux&color=red
 )
 # Introduction
 I'm a passionate <b>full-stack developer</b> with a knack for building beautiful and functional web applications. I thrive on challenges and love learning new technologies to bring ideas to life.
