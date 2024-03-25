@@ -9,7 +9,7 @@
 ## Website
 
 Link : https://bhaitigam71.github.io/Portfolio/
-<a href="https://bhaitigam71.github.io/Portfolio/"><img src="https://github.com/bhaitigam71/Portfolio/blob/main/assets/portfolio-page.png" alt="Portfolio Web Page" /></a>
+![GitHubBanner](https://github.com/bhaitigam71/bhaitigam71/blob/main/assets/img/portfolio%20sreenshort.png)
 
 # Introduction
 I'm a passionate full-stack developer with a knack for building beautiful and functional web applications. I thrive on challenges and love learning new technologies to bring ideas to life.
